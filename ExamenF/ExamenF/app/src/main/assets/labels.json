@@ -1,0 +1,72 @@
+[
+  {
+    "identifier": 0,
+    "alpha2code": "AR",
+    "Country": "Argentina"
+  },
+  {
+    "identifier": 1,
+    "alpha2code": "BE",
+    "Country": "Belgium"
+  },
+  {
+    "identifier": 2,
+    "alpha2code": "BR",
+    "Country": "Brazil"
+  },
+  {
+    "identifier": 3,
+    "alpha2code": "CO",
+    "Country": "Colombia"
+  },
+  {
+    "identifier": 4,
+    "alpha2code": "CR",
+    "Country": "Costa Rica"
+  },
+  {
+    "identifier": 5,
+    "alpha2code": "EC",
+    "Country": "Ecuador"
+  },
+  {
+    "identifier": 6,
+    "alpha2code": "ES",
+    "Country": "Spain"
+  },
+  {
+    "identifier": 7,
+    "alpha2code": "FR",
+    "Country": "France"
+  },
+  {
+    "identifier": 8,
+    "alpha2code": "GB",
+    "Country": "United Kingdom"
+  },
+  {
+    "identifier": 9,
+    "alpha2code": "JP",
+    "Country": "Japan"
+  },
+  {
+    "identifier": 10,
+    "alpha2code": "MX",
+    "Country": "Mexico"
+  },
+  {
+    "identifier": 11,
+    "alpha2code": "PT",
+    "Country": "Portugal"
+  },
+  {
+    "identifier": 12,
+    "alpha2code": "SE",
+    "Country": "Sweden"
+  },
+  {
+    "identifier": 13,
+    "alpha2code": "UY",
+    "Country": "Uruguay"
+  }
+]
